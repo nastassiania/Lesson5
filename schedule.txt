@@ -2,5 +2,7 @@ lection1
 lection2
 lection3
 lecture4
+lecture90
+lecture91
 lecture100
 lecture101
